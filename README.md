@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-and hosted on Netlify with (https://jade-eclair-b7ecfe.netlify.app).
+and hosted on Netlify with (https://jade-eclair-b7ecfe.netlify.app). and Screenshots are added below
+
+<img width="1440" alt="Screenshot 2023-12-27 at 5 15 25 PM" src="https://github.com/AnkithSharmaji/Evotech_Assignment/assets/86291521/4d179941-6400-420d-9acc-7b004a2fcd11">
+<img width="1431" alt="Screenshot 2023-12-27 at 5 16 07 PM" src="https://github.com/AnkithSharmaji/Evotech_Assignment/assets/86291521/d109e5aa-bda9-4327-9d12-e1832eb908a2">
+
 
 ## Available Scripts
 
